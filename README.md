@@ -5,7 +5,7 @@ It includes trading Algorithms that use ML, Neural Networks and Deep Learning.
 **Python** has been used as the main language and **PyTorch** as the primary **Deep Learning** library.
 
 The project work/submissions have been added in the respective sections.
-Each folder contains a Jupyter Notebook that can be opened statically (file with extension **.ipynb**).
+Each folder contains a Jupyter Notebook that can be opened statically (file of type **project_\<number\>_starter.ipynb**).
 
 The nanogree was split in two parts, covering the following topics:
 
